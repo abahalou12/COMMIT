@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\BenBach\bin\Debug\BenBach.exe.config
+C:\Users\acer\source\repos\BenBach\bin\Debug\BenBach.exe
+C:\Users\acer\source\repos\BenBach\bin\Debug\BenBach.pdb
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.Form1.resources
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.Properties.Resources.resources
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.exe
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.pdb
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.Form2.resources
+C:\Users\acer\source\repos\BenBach\obj\Debug\BenBach.Form3.resources
