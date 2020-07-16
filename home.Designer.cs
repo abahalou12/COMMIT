@@ -123,7 +123,7 @@
             // 
             // btn_Quiter
             // 
-            this.btn_Quiter.Location = new System.Drawing.Point(690, 330);
+            this.btn_Quiter.Location = new System.Drawing.Point(376, 355);
             this.btn_Quiter.Name = "btn_Quiter";
             this.btn_Quiter.Size = new System.Drawing.Size(75, 23);
             this.btn_Quiter.TabIndex = 2;
@@ -136,7 +136,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.ClientSize = new System.Drawing.Size(766, 357);
+            this.ClientSize = new System.Drawing.Size(766, 390);
             this.Controls.Add(this.btn_Quiter);
             this.Controls.Add(this.btn_connecter);
             this.Controls.Add(this.btn_inscrire);

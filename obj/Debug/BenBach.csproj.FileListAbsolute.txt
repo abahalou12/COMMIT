@@ -15,8 +15,8 @@ C:\Users\acer\source\repos\COMMIT\bin\Debug\BenBach.pdb
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.csprojAssemblyReference.cache
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.connexion.resources
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.home.resources
-C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.Form3.resources
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.Properties.Resources.resources
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.csproj.GenerateResource.cache
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.exe
 C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.pdb
+C:\Users\acer\source\repos\COMMIT\obj\Debug\BenBach.Infos.resources
